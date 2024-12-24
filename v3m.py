@@ -16,8 +16,8 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '7661545231:AAE_wXtAAvOI9b16sczGPXKpCYGyXCLXonQ'
-MONGO_URI = 'mongodb+srv://botplays:botplays@botplays.0xflp.mongodb.net/?retryWrites=true&w=majority&appName=Botplays'
+TOKEN = '6753975076:AAFf1NSPNj9pFfLjnL1Wo2c54n4WOfNcBao'
+MONGO_URI = 'mongodb+srv://botplays90:botplays90@botplays.ycka9.mongodb.net/?retryWrites=true&w=majority&appName=botplays'
 FORWARD_CHANNEL_ID = -1002165028046
 CHANNEL_ID = -1002165028046
 error_channel_id = -1002165028046
