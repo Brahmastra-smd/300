@@ -1,4 +1,5 @@
 import os
+os.system("pip install telebot pymongo aiohttp apscheduler")
 import subprocess 
 import telebot
 import json
